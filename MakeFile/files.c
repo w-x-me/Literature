@@ -1,3 +1,4 @@
 #include"defs.h"
 #include"buffer.h"
-//实现Search_Call.....函数
+#include"command.h"
+//实现Files_Call.....函数
